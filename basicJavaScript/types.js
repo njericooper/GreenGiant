@@ -7,4 +7,4 @@ var a = ['hello', 'world'];
 var b = a;
 b[0] = 'bye';
 a[0];
-b[0]
+b[0];
