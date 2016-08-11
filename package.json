@@ -1,0 +1,11 @@
+{
+  "name": "hr",
+  "version": "1.0.0",
+  "script": {
+    "start": "echo \" Run the correct js file to start your application\":"node ./bin/populate_db"
+  },
+  "dep"
+},
+"dependencies":{
+  "async":
+}
